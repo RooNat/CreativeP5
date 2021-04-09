@@ -1,0 +1,2 @@
+A1开头的为A1作业，A2开头的为A2作业。其中的关于库的说明见链接https://shimo.im/docs/Pc96vKVY8Ywv9xXw/ 《0102_A1_技术文档》，可复制链接后用石墨文档 App 或小程序打开
+A2说明见链接：https://shimo.im/docs/xdrJYP6Q3CgGDdWW/ 「0102_A2」，可复制链接后用石墨文档 App 或小程序打开
